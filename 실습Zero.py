@@ -419,9 +419,3 @@ plt.title('cos')
 
 plt.show()
 
-
-# In[ ]:
-
-
-
-
