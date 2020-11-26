@@ -274,7 +274,7 @@ plt.show()
 
 # ### 4) $ A_i $ 시각화 
 
-# In[ ]:
+# In[15]:
 
 
 k = 1
@@ -298,7 +298,7 @@ for i in list(range(1,6)):
 
 # ### 5) $\hat{A}(i)$ 시각화
 
-# In[ ]:
+# In[16]:
 
 
 quality = 5
@@ -321,7 +321,7 @@ for i in list(range(1,k+1)):
 
 # ### 6) Rank-k $\hat{A}(i)$ 시각화
 
-# In[ ]:
+# In[17]:
 
 
 k = 50
